@@ -1,0 +1,41 @@
+#backBtn{
+    -fx-background-color: #0088cc;
+}
+#backBtn:hover{
+    -fx-background-color: #0088cc;
+    -fx-graphic: url(../materialFiles/icons/back.png);
+}
+.label{
+    -fx-font-size: 25px;
+    -fx-text-fill: white ;
+}
+#topBar{
+    -fx-background-color: #0088cc;
+    -fx-padding: 15 15 15 15;
+    -fx-alignment: center-left;
+}
+#profileInfo{
+    -fx-background-color: #0088cc;
+    -fx-padding: 0 10 30 30;
+    -fx-alignment: center-left;
+    -fx-spacing: 25px;
+}
+#menu{
+    -fx-background-color: white;
+}
+#item{
+    -fx-background-color: none;
+    -fx-font-size: 15px;
+}
+#items{
+    -fx-background-color: white;
+    -fx-spacing: 10px;
+    -fx-padding: 8 8 8 8;
+    -fx-alignment: center-left;
+}
+#items:hover{
+    -fx-background-color: 	#D3D3D3;
+    -fx-spacing: 10px;
+    -fx-padding: 8 8 8 8;
+    -fx-alignment: center-left;
+}

@@ -1,0 +1,18 @@
+.button{
+    -fx-background-color: none;
+}
+.text-field{
+    -fx-background-radius: 30px;
+}
+#back:hover{
+    -fx-max-width: 18px;
+    -fx-max-height: 18px;
+    -fx-graphic: url(../materialFiles/icons/back.png);
+
+}
+#binder:hover{
+    -fx-graphic: url(../materialFiles/icons/Binder.png);
+}
+#sending:hover{
+    -fx-graphic: url(../materialFiles/icons/sending.png);
+}

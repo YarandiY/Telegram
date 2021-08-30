@@ -1,0 +1,33 @@
+.changePicButton{
+    -fx-background-color: none;
+    -fx-font-size: 40px;
+    -fx-alignment: center;
+    -fx-text-fill: 	black;
+}
+.changePicButton:hover{
+    -fx-background-color: none;
+    -fx-font-size: 40px;
+    -fx-alignment: center;
+    -fx-text-fill: 	#0088cc;
+}
+#signupBtn:hover{
+    -fx-background-color: #0088cc;
+    -fx-text-fill: white;
+}
+#signupBtn{
+    -fx-background-color:#0090cc ;
+}
+#backBtn{
+    -fx-background-color: white;
+}
+#backBtn:hover{
+    -fx-background-color: white;
+    -fx-graphic: url(../materialFiles/icons/back.png);
+}
+#removeP{
+    -fx-background-color: white;
+}
+#removeP:hover{
+    -fx-background-color: white;
+    -fx-text-fill: red;
+}

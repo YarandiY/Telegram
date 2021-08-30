@@ -1,0 +1,21 @@
+#btn:hover{
+    -fx-background-color: #0088cc;
+    -fx-text-fill: white;
+}
+#btn{
+    -fx-background-color:#0090cc;
+}
+#forgetPass{
+    -fx-background-color: white;
+}
+#forgetPass:hover{
+    -fx-background-color: white;
+    -fx-text-fill: red;
+}
+#creatAccount{
+    -fx-background-color: white;
+}
+#creatAccount:hover{
+    -fx-background-color: white;
+    -fx-text-fill: red;
+}

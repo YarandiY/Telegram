@@ -1,0 +1,20 @@
+.hbox {
+    -fx-padding: 8 8 8 8;
+    -fx-border-color: 	#D3D3D3;
+    -fx-border-width: 0.2px;
+}
+.hbox:hover {
+    -fx-background-color: #0088cc;
+}
+.txt {
+    -fx-font-size: 15px;
+}
+#menuButton {
+    -fx-background-color: white;
+}
+#menuButton:hover{
+    -fx-graphic: url(../materialFiles/icons/menu1.png);
+}
+.menuVBox{
+    -fx-background-color:#0088cc;
+}
